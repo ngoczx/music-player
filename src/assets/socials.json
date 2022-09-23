@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Facebook",
+    "img": "https://unica.vn/media/imagesck/1613537579_cach-chan-quang-cao-tren-facebook-1.jpg?v=1613537579",
+    "link": "https://www.facebook.com/ngoc.nguyen.03/"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "img": "https://www.cryptonewsz.com/wp-content/uploads/2019/07/GitHub-Bans-Iranian-Developers.jpg",
+    "link": "https://github.com/ngoczx"
+  },
+  {
+    "id": 2,
+    "name": "Linkedin",
+    "img": "https://belead.eu/wp-content/uploads/2021/07/Linkedin-perfil-profesional-1.png",
+    "link": "https://www.linkedin.com/in/ngoczx/"
+  }
+]
